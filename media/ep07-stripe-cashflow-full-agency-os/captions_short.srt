@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:14,000
+Most agencies quote in one doc, bill in Stripe, and guess VAT and income tax reserves in a messy spreadsheet weeks later.
+
+2
+00:00:14,000 --> 00:00:36,000
+Wire your rate card directly to SOW proposals, Stripe Payment Links, post-payment PDF invoices, and automated EUR/USD/GBP tax vaults.
+
+3
+00:00:36,000 --> 00:00:54,000
+Grab the 24 EUR Cashflow & Tax Tracker on Payhip today, or deploy the Tier 2 Full Agency Financial OS on MarginProof Portal.

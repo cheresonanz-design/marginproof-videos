@@ -1,5 +1,5 @@
 # MarginProof Video & Shorts Hub (P6)
-> 6 actionable 9:16 B2B agency finance & retainer profitability Shorts with transcripts and Payhip toolkit links.
+> 7 actionable 9:16 B2B agency finance & retainer profitability Shorts with transcripts and Payhip toolkit links.
 
 - Why Your 100 EUR/h Freelance Rate Only Nets 48 EUR (And How to Fix It in 5 Min): https://cheresonanz-design.github.io/marginproof-videos/episodes/ep01-hourly-rate-margin-trap/
 - How 15% Unbilled Scope Creep Quietly Erases 40% of Agency Net Profit: https://cheresonanz-design.github.io/marginproof-videos/episodes/ep02-scope-creep-margin-leak/
@@ -7,3 +7,4 @@
 - Stop Confusing Bank Balance With Profit: Multi-Currency VAT & Tax Reserve System: https://cheresonanz-design.github.io/marginproof-videos/episodes/ep04-multi-currency-tax-vault/
 - How 3-Tier Value Proposals & SOW Change-Order Guardrails Increase Agency Deal Size by 35%: https://cheresonanz-design.github.io/marginproof-videos/episodes/ep05-3-tier-proposal-sow-guardrails/
 - Why 5-15 Person Agencies Outgrow Spreadsheets (And How Turnkey Margin Systems Fix It): https://cheresonanz-design.github.io/marginproof-videos/episodes/ep06-turnkey-agency-systems-rollout/
+- How Agencies Automate Quoting, Stripe Billing, Multi-Currency Tax Vaults & Retainer Tracking: https://cheresonanz-design.github.io/marginproof-videos/episodes/ep07-stripe-cashflow-full-agency-os/

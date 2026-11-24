@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:14,000
+Billing clients 100 EUR an hour while paying a subcontractor 65 EUR looks like a 35% profit—until internal PM review eats 20% of the budget.
+
+2
+00:00:14,000 --> 00:00:36,000
+Always bake internal account management hours and a 20% QA buffer into your effective retainer rate before quoting fixed delivery.
+
+3
+00:00:36,000 --> 00:00:54,000
+Check real effective hourly rates free on MarginProof Portal, or deploy the 29 EUR Client Retainer & Profitability OS on Payhip.

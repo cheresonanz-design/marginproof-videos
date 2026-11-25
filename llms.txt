@@ -1,5 +1,5 @@
 # MarginProof Video & Shorts Hub (P6)
-> 11 actionable 9:16 B2B agency finance & retainer profitability Shorts with transcripts and Payhip toolkit links.
+> 12 actionable 9:16 B2B agency finance & retainer profitability Shorts with transcripts and Payhip toolkit links.
 
 - Why Your 100 EUR/h Freelance Rate Only Nets 48 EUR (And How to Fix It in 5 Min): https://cheresonanz-design.github.io/marginproof-videos/episodes/ep01-hourly-rate-margin-trap/
 - How 15% Unbilled Scope Creep Quietly Erases 40% of Agency Net Profit: https://cheresonanz-design.github.io/marginproof-videos/episodes/ep02-scope-creep-margin-leak/
@@ -12,3 +12,4 @@
 - How Agencies Price Subcontractors Without Crushing Retainer Gross Margin: https://cheresonanz-design.github.io/marginproof-videos/episodes/ep09-subcontractor-margin-buffer/
 - Why Agencies Freeze Rates for 2 Years (And Lose 18% Real Margin): https://cheresonanz-design.github.io/marginproof-videos/episodes/ep10-annual-agency-rate-increase-playbook/
 - How a 2-Line Change-Order Clause Saves 22% on Fixed-Fee Agency Sprints: https://cheresonanz-design.github.io/marginproof-videos/episodes/ep11-fixed-fee-change-order-gate/
+- Why 38% Utilization Kills Agency Profit (And How to Audit Effective Hourly Rate): https://cheresonanz-design.github.io/marginproof-videos/episodes/ep12-agency-effective-hourly-rate-leak/

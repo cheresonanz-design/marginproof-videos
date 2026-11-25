@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:14,000
+Agencies quote at 120 EUR per hour, yet unbilled meetings, QA revisions, and account management drop real utilization under 40 percent.
+
+2
+00:00:14,000 --> 00:00:36,000
+Divide monthly retainer fee by every internal hour spent—including Slack and PM time—to spot accounts paying half your target rate.
+
+3
+00:00:36,000 --> 00:00:54,000
+Test your real effective hourly rate free on MarginProof Portal, or grab the 29 EUR Client Retainer and Profitability OS on Payhip.
